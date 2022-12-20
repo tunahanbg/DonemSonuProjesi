@@ -1,0 +1,29 @@
+2001      Apple      Macbook_Pro_M2                28000
+
+2002      Apple      Macbook_Air_M1                19740
+
+2003      Apple      Macbook_Air_M2                24000
+
+2004      Apple      Macbook_Pro_M1_Pro            41000
+
+2005      Apple      Macbook_Pro_M1_Max            56000
+
+2006      Huawei     Matebook_D14                  19000 
+
+2007      Huawei     Matebook_D15                  11400 
+
+2008      Huawei     Matebook_D16                  17000 
+
+2009      Huawei     Matebook_X_Pro                40000 
+
+2010      Huawei     Matebook_X_Pro_Evo            45000 
+
+2011      Lenovo     ThinkPad_X1_Gen_5             26000
+
+2012      Lenovo     ThinkPad_X1_Gen_10            32000 
+
+2013      Lenovo     ThinkPad_X1_Fold              35000 
+
+2014      Lenovo     ThinkPad_E15                  28500 
+
+2015      Lenovo     ThinkPad_14                   33000 

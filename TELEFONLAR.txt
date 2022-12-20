@@ -1,0 +1,27 @@
+1001      Apple      Iphone_14                     30899
+    
+1002      Apple      Iphone_14_Pro                 53199
+
+1003      Apple      Iphone_14_Plus                42899
+
+1004      Apple      Iphone_13                     26899
+
+1005      Apple      Iphone_13_Pro_Max             47219
+
+1006      Samsung    SAMSUNG_Galaxy_Z_Fold_4       37899
+
+1007      Samsung    SAMSUNG_Galaxy_S22_Ultra      31299
+
+1008      Samsung    SAMSUNG_Galaxy_S22+           26000
+
+1009      Xiaomi     XIAOMI_Mi_11T_Pro             20000
+
+1010      Xiaomi     XIAOMI_12T                    17899
+
+1011      Xiaomi     XIAOMI_12_Lite                16500
+
+1012      Huawei     HUAWEI_Nova_9_SE              8999
+
+1013      Huawei     HUAWEI_Nova_Y90               7999
+
+1014      Huawei     HUAWEI_Nova_Y70               5999
